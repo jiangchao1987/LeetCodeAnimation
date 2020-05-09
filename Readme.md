@@ -8,9 +8,13 @@
 
 我会尽力将 LeetCode 上所有的题目都用动画的形式演示出来，计划用 3 到 4 年时间去完成它，期待与你见证这一天！
 
-文章最新首发于微信公众号 **五分钟学算法** ，您可以关注获取最新的文章。
+文章最新首发于微信公众号 **图解面试算法**，您可以关注获取最新的文章。
 
-个人网站：https://www.cxyxiaowu.com
+![](Pictures/qrcode.jpg)
+
+
+
+文章同步博客地址：https://www.algomooc.com
 
 ## 汇总
 
@@ -32,6 +36,7 @@
 | 24   | [两两交换链表中的节点](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第24号问题：两两交换链表中的节点.md) |                                                              |
 | 25   | [K 个一组翻转链表](https://mp.weixin.qq.com/s/YOz66mJchVIEQjA7TBV2cg) |                                                              |
 | 26   | [删除排序数组中的重复项](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第26号问题：删除排序数组中的重复项.md) | ![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/4tk72.gif) |
+| 32   | [最长有效括号](https://mp.weixin.qq.com/s/CPIDKHsg3ROT10rVFDyDJQ) |                                                              |
 | 38   | [报数](https://mp.weixin.qq.com/s/DKXJR8pNX3fKGvtSn0TEjw)    |                                                              |
 | 41   | [缺失的第一个正数](<https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247486473&idx=3&sn=06bf5f9c17cd3cb328934acc698b0ec3&chksm=fa0e6388cd79ea9e30c67dd2e5251056d860ba45e1fcbbcd4524573072305396d06629312c91&token=1735603091&lang=zh_CN#rd>) |                                                              |
 | 66   | [加一](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第66号问题：加一.md) |                                                              |
@@ -72,8 +77,10 @@
 | 206  | [反转链表](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第206号问题：反转链表.md) |                                                              |
 | 209  | [长度最小的子数组](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第209号问题：长度最小的子数组.md) |                                                              |
 | 219  | [存在重复元素 II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第219号问题：存在重复元素II.md) |                                                              |
+| 229  | [求众数II](https://mp.weixin.qq.com/s/ObO4eQbjp1s1g_WXPkjixQ) |                                                              |
 | 231  | [2的幂](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第231号问题：2的幂.md) |                                                              |
-| 237  | [删除链表中的节点](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第237号问题：删除链表中的节点.md) |                                                              |
+| 232  | [使用栈实现队列](https://mp.weixin.qq.com/s/j6w94_PjvsL9Dip_xBcqcg) |                                                              |
+| 237  | [删除链表中的节点](https://mp.weixin.qq.com/s/2XdUeDNblryFpXpTUgsaMQ) |                                                              |
 | 239  | [滑动窗口最大值](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第239号问题：滑动窗口最大值.md) |                                                              |
 | 242  | [有效的字母异位词](https://mp.weixin.qq.com/s/o5HTxmOgpftSaQdebS9zyQ) |                                                              |
 | 268  | [缺失数字](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第268号问题：缺失数字.md) |                                                              |
@@ -94,33 +101,15 @@
 | 454  | [四数相加 II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第454号问题：四数相加II.md) |                                                              |
 | 642  | [设计一个搜索自动完成系统](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第642号问题：设计一个搜索自动完成系统.md) |                                                              |
 | 690  | [员工的重要性](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第690号问题：员工的重要性.md) |                                                              |
+| 739  | [每日温度](https://mp.weixin.qq.com/s/3kDSOHyd-qOw7apzj0Z9YQ) |                                                              |
 | 877  | [石子游戏](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第877号问题：石子游戏.md) |                                                              |
 | 1025 | [除数博弈](https://mp.weixin.qq.com/s/0u6z02QYj1OpAwf54k8-Dw) |                                                              |
 | 1099 | [小于 K 的两数之和](https://mp.weixin.qq.com/s/S6BbLeP_th_9JheNX7NN-w) |                                                              |
 
-## 几篇学习算法的经验贴
-
-[六千字干货文：到底要怎么去学算法？](https://mp.weixin.qq.com/s/7cpixzxE2DLaEn7F615AqQ)
-
-[微信大佬总结的算法学习经验](https://mp.weixin.qq.com/s/fECqsr3T4WKNcx7s-2ozuA)
-
-[LeetCode 刷 500 道题，笔试/面试稳吗？谈谈算法的学习](https://mp.weixin.qq.com/s/BuFTEW1guRDrLVVktP6I_w)
-
-
-邮箱：misterbigbooo@gmail.com
-
-喜欢就 star❤️ 一下吧！
-
-## 和我交流
-
-![](https://blog-1257126549.cos.ap-guangzhou.myqcloud.com/blog/6nqpz.jpeg)
 
 
 
 
-
-
-
-
+![](Pictures/qrcode.jpg)
 
 
